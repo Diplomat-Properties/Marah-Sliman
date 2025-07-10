@@ -40,7 +40,7 @@ BEGIN:VCARD
 VERSION:3.0
 FN:Marah Sliman 
 TITLE:Sales Manager
-ORG:RISE Properties
+ORG:Diplomat Properties
 TEL;TYPE=WORK,VOICE:+971586471635
 EMAIL:marahsoul123@gmail.com
 URL:http://www.dpdxb.com
